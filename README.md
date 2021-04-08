@@ -1,5 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WhiteBlackGoose/QuantumComputingMatrices/HEAD)
-[![View](https://shields.io/static/v1?label=View%20on&message=NbViewer&color=green)](https://nbviewer.jupyter.org/github/WhiteBlackGoose/QuantumComputingMatrices/blob/2d348456ff30c74073933c74b2a31dde133ddac3/notebooks/Matrices.ipynb)
+[![View](https://shields.io/static/v1?label=View%20on&message=NbViewer&color=green)](https://nbviewer.jupyter.org/github/WhiteBlackGoose/QuantumComputingMatrices/blob/main/notebooks/Matrices.ipynb)
 
 ### Quantum matrix almanac
 
