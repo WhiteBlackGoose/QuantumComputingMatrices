@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WhiteBlackGoose/QuantumComputingMatrices/HEAD)
 [![View](https://shields.io/static/v1?label=View%20on&message=NbViewer&color=green)](https://nbviewer.jupyter.org/github/WhiteBlackGoose/QuantumComputingMatrices/blob/main/notebooks/Matrices.ipynb)
-[![By](https://img.shields.io/badge/Powered%20by-AngouriMath-purple?style=flat-square&labelColor=646)](https://am.angouri.org)
+[![Powered by AngouriMath](https://img.shields.io/badge/Powered%20by-AngouriMath-purple?style=flat-square&labelColor=646)](https://am.angouri.org)
 
 ### Quantum matrix almanac
 
